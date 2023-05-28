@@ -1,1 +1,1 @@
-# deplyNotes
+# deployNotes
